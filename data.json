@@ -1,0 +1,636 @@
+{
+  "cartas": [
+    {
+      "id": 0,
+      "valor": "0",
+      "nome": "O Louco",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/ar00.jpg",
+      "significado": "Busca de experiências novas, esperanças, descobertas, pureza, mas também as extravagâncias, delírio, intoxicação, frenesi, disparates. Aventuras. Impulsos. Rapidez.",
+      "tipo": "Arcano maior"
+    },
+    {
+      "id": 1,
+      "valor": "1",
+      "nome": "O Mago",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/ar01.jpg",
+      "significado": "O início de alguma coisa, força de influenciar os outros, habilidade, sutileza, direção, auto-confiança, força de vontade, poder de criar, inteligência, armadilha dos inimigos.",
+      "tipo": "Arcano maior"
+    },
+    {
+      "id": 2,
+      "valor": "2",
+      "nome": "A Grande Sacerdotisa",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/ar02.jpg",
+      "significado": "Segredos, mistérios. O futuro ainda não revelado. Silêncio, sabedoria, conhecimento profundo. Intuições, pressentimentos, poderes psíquicos, sensibilidade, paciência, bondade, coisas duradouras.",
+      "tipo": "Arcano maior"
+    },
+    {
+      "id": 3,
+      "valor": "3",
+      "nome": "A Imperatriz",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/ar03.jpg",
+      "significado": "Realização, ações, criatividade, longevidade, fertilidade, vitalidade, nascimento, prosperidade; também dificuldade, clandestinidade, dúvida ou ignorância. Época de movimento e prosperidade.",
+      "tipo": "Arcano maior"
+    },
+    {
+      "id": 4,
+      "valor": "4",
+      "nome": "O Imperador",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/ar04.jpg",
+      "significado": "Estabilidade, poder, proteção, realização. Ajuda. Autoridade. Força de vontade. O poder no mundo. Organização. Disciplina. Dinheiro. Experiência.",
+      "tipo": "Arcano maior"
+    },
+    {
+      "id": 5,
+      "valor": "5",
+      "nome": "O Hierofante",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/ar05.jpg",
+      "significado": "Casamento, aliança. Compaixão, bondade, inspiração. Um guia. Ajuda. Também cativeiro. Proteção espiritual.",
+      "tipo": "Arcano maior"
+    },
+    {
+      "id": 6,
+      "valor": "6",
+      "nome": "Os Enamorados",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/ar06.jpg",
+      "significado": "Amor, beleza, atração, sucesso nas provações. Casamento. União.",
+      "tipo": "Arcano maior"
+    },
+    {
+      "id": 7,
+      "valor": "7",
+      "nome": "A Carruagem",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/ar07.jpg",
+      "significado": "Ajuda, sucesso, proteção divina, triunfo, coragem, aventuras, viagens, também presunção, vingança, guerra, problemas. Efeitos rápidos.",
+      "tipo": "Arcano maior"
+    },
+    {
+      "id": 8,
+      "valor": "8",
+      "nome": "A Força",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/ar08.jpg",
+      "significado": "Energia, poder, ação, coragem, generosidade, sucesso completo e honrarias.",
+      "tipo": "Arcano maior"
+    },
+    {
+      "id": 9,
+      "valor": "9",
+      "nome": "A Força",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/ar09.jpg",
+      "significado": "Energia, poder, ação, coragem, generosidade, sucesso completo e honrarias.",
+      "tipo": "Arcano maior"
+    },
+    {
+      "id": 10,
+      "valor": "10",
+      "nome": "A Roda da Fortuna",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/ar10.jpg",
+      "significado": "Sucesso, elevação, fortuna, destino feliz, sorte, felicidade. Mudanças rápidas.",
+      "tipo": "Arcano maior"
+    },
+    {
+      "id": 11,
+      "valor": "11",
+      "nome": "A Justiça",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/ar11.jpg",
+      "significado": "Equilíbrio, honestidade, triunfo merecido da lei, objetividade, moralidade, execução das ações. Resultado de suas ações, colhendo o que plantou.",
+      "tipo": "Arcano maior"
+    },
+    {
+      "id": 12,
+      "valor": "12",
+      "nome": "A Justiça",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/ar12.jpg",
+      "significado": "Equilíbrio, honestidade, triunfo merecido da lei, objetividade, moralidade, execução das ações. Resultado de suas ações, colhendo o que plantou.",
+      "tipo": "Arcano maior"
+    },
+    {
+      "id": 13,
+      "valor": "13",
+      "nome": "A Morte",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/ar13.jpg",
+      "significado": "Fim, perdas, contrariedades, passagem de um estágio para outro, mudança de consciência, renascimento, renovação. Carta rápida. Esta carta raramente significa a morte física, geralmente está ligada à morte de um estado de consciência.",
+      "tipo": "Arcano maior"
+    },
+    {
+      "id": 14,
+      "valor": "14",
+      "nome": "A Temperança",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/ar14.jpg",
+      "significado": "Moderação, bom gerenciamento, economia, contenção, cura, intercâmbio entre o plano psíquico e o material, novas descobertas ou novo caminho.",
+      "tipo": "Arcano maior"
+    },
+    {
+      "id": 15,
+      "valor": "15",
+      "nome": "O Diabo",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/ar15.jpg",
+      "significado": "A natureza animal, força, veemência, esforços extraordinários, inteligência, tentações, sedução, destino ou carma, violência, dinheiro. Dominação, submissão. Momento parado e trancado.",
+      "tipo": "Arcano maior"
+    },
+    {
+      "id": 16,
+      "valor": "16",
+      "nome": "A Torre",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/ar16.jpg",
+      "significado": "Transformações surpreendentes, catástrofes, abalos, adversidade, miséria, doença, decepções, fracasso das esperanças. Mudanças súbitas e rápidas.",
+      "tipo": "Arcano maior"
+    },
+    {
+      "id": 17,
+      "valor": "17",
+      "nome": "A Estrela",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/ar17.jpg",
+      "significado": "A carta da Esperança, tudo é favorável e duradouro, muita sorte, ajuda espiritual, juventude, beleza, simplicidade, clareza, verdade, sinceridade. Momento tranquilo.",
+      "tipo": "Arcano maior"
+    },
+    {
+      "id": 18,
+      "valor": "18",
+      "nome": "A Lua",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/ar18.jpg",
+      "significado": "Inimigos ocultos, perigos ocultos, o subconsciente, a imaginação, os sonhos, medos, pressentimentos ruins, inquietação, insegurança, enganos, calúnias, segredos, forças ocultas. Coisas passageiras. O passado.",
+      "tipo": "Arcano maior"
+    },
+    {
+      "id": 19,
+      "valor": "19",
+      "nome": "O Sol",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/ar19.jpg",
+      "significado": "Sorte financeira e no amor. Muitas alegrias. Vitalidade e saúde. Simplicidade. Profunda integração entre a natureza espiritual e animal. Boas novidades. Uma criança. Proteção. Descontração.",
+      "tipo": "Arcano maior"
+    },
+    {
+      "id": 20,
+      "valor": "20",
+      "nome": "O Julgamento Final",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/ar20.jpg",
+      "significado": "Renovação total. Resultados que aparecem rápido. Transmutação, cura, libertação, descoberta feliz. Mudança de estado civil ou de cidade.",
+      "tipo": "Arcano maior"
+    },
+    {
+      "id": 21,
+      "valor": "21",
+      "nome": "O Mundo",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/ar21.jpg",
+      "significado": "Sucesso garantido, recompensas, viagem para longe, mudança de lugar ou de estado, vôo físico ou mental, alcançar as metas e conseguir mais do que esperava.",
+      "tipo": "Arcano maior"
+    },
+    {
+      "id": 22,
+      "valor": "Paus",
+      "nome": "Rei de Paus",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/waki.jpg",
+      "significado": "Homem moreno amigo.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 23,
+      "valor": "Paus",
+      "nome": "Rainha de Paus",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/waqu.jpg",
+      "significado": "Mulher morena, muito trabalhadora. Sucesso nos negócios. Amor ao dinheiro.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 24,
+      "valor": "Paus",
+      "nome": "Cavaleiro de Paus",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/wakn.jpg",
+      "significado": "Uma viagem, partida ou chegada. Mudanças rápidas.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 25,
+      "valor": "Paus",
+      "nome": "Pajem de Paus",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/wapa.jpg",
+      "significado": "Lealdade. Notícias, novidades, convites, oportunidades.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 26,
+      "valor": "Paus",
+      "nome": "Dez de Paus",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/wa10.jpg",
+      "significado": "Pressões. Final de um ciclo e início de outro.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 27,
+      "valor": "Paus",
+      "nome": "Nove de Paus",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/wa09.jpg",
+      "significado": "Desconfiança. Atrasos, adiamentos. Posição de poder, mas pronto para atacar se for preciso. Resistência.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 28,
+      "valor": "Paus",
+      "nome": "Oito de Paus",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/wa08.jpg",
+      "significado": "Muito movimento. Mudanças . Notícias. Rapidez. Grandes esperanças. Pressa.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 29,
+      "valor": "Paus",
+      "nome": "Sete de Paus",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/wa07.jpg",
+      "significado": "Ataque dos outros causados por inveja. Vantagem do consulente.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 30,
+      "valor": "Paus",
+      "nome": "Seis de Paus",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/wa06.jpg",
+      "significado": "Vitória. Notícias que chegam. Novidades. Otimismo.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 31,
+      "valor": "Paus",
+      "nome": "Cinco de Paus",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/wa05.jpg",
+      "significado": "A luta da vida. Lucros mas com muito trabalho. Trabalho em equipe.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 32,
+      "valor": "Paus",
+      "nome": "Quatro de Paus",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/wa04.jpg",
+      "significado": "Sucesso material. Estabilidade.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 33,
+      "valor": "Paus",
+      "nome": "Três de Paus",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/wa03.jpg",
+      "significado": "O esforço, o trabalho. Comércio. Descobertas. Sucesso Financeiro.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 34,
+      "valor": "Paus",
+      "nome": "Dois de Paus",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/wa02.jpg",
+      "significado": "Doença, tristeza e sofrimento convivendo juntos com a riqueza e a fortuna.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 35,
+      "valor": "Paus",
+      "nome": "Ás de Paus",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/waac.jpg",
+      "significado": "Criatividade. Início de alguma coisa, novo trabalho, um filho, etc. Lucros. Herança",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 36,
+      "valor": "Copas",
+      "nome": "Rei de Copas",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/cuki.jpg",
+      "significado": "Homem justo e bondoso. Homem de negócios, de lei.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 37,
+      "valor": "Copas",
+      "nome": "Rainha de Copas",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/cuqu.jpg",
+      "significado": "Beleza, encanto. Mulher que quer ajudar o consulente.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 38,
+      "valor": "Copas",
+      "nome": "Cavaleiro de Copas",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/cukn.jpg",
+      "significado": "Notícias, mensagens, convites.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 39,
+      "valor": "Copas",
+      "nome": "Pajem de Copas",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/cupa.jpg",
+      "significado": "Homem jovem, amigável, que quer prestar algum favor ao consulente. Notícias sobre negócios.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 40,
+      "valor": "Copas",
+      "nome": "Dez de Copas",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/cu10.jpg",
+      "significado": "Alegrias profundas.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 41,
+      "valor": "Copas",
+      "nome": "Nove de Copas",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/cu09.jpg",
+      "significado": "Satisfação, principalmente metrial. Felicidade no lar. Gravidez.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 42,
+      "valor": "Copas",
+      "nome": "Oito de Copas",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/cu08.jpg",
+      "significado": "Perda de interesse, busca de novos rumos. Desilusão. Depressão.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 43,
+      "valor": "Copas",
+      "nome": "Sete de Copas",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/cu07.jpg",
+      "significado": "Momento mágico. Imaginação fértil. Visões e insights. Ajuda inesperada.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 44,
+      "valor": "Copas",
+      "nome": "Seis de Copas",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/cu06.jpg",
+      "significado": "Achar coisas perdidas. Nostalgia.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 45,
+      "valor": "Copas",
+      "nome": "Cinco de Copas",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/cu05.jpg",
+      "significado": "O sofrimento é passageiro. Depressão.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 46,
+      "valor": "Copas",
+      "nome": "Quatro de Copas",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/cu04.jpg",
+      "significado": "Cansaço, desgosto. Preocupações desnecessárias.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 47,
+      "valor": "Copas",
+      "nome": "Três de Copas",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/cu03.jpg",
+      "significado": "Vitória. Alegria. Realizações agradáveis. Festas.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 48,
+      "valor": "Copas",
+      "nome": "Dois de Copas",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/cu02.jpg",
+      "significado": "Grande satisfação no amor. União.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 49,
+      "valor": "Copas",
+      "nome": "Ás de Copas",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/cuac.jpg",
+      "significado": "Alegria. Abundância. Fertilidade.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 50,
+      "valor": "Espadas",
+      "nome": "Reis de Espadas",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/swki.jpg",
+      "significado": "A Justiça. Estratégia.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 51,
+      "valor": "Espadas",
+      "nome": "Rainha de Espadas",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/swqu.jpg",
+      "significado": "Sofrimento feminino, ou emocional. Tristeza. Saudade.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 52,
+      "valor": "Espadas",
+      "nome": "Cavaleiro de Espadas",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/swkn.jpg",
+      "significado": "Habilidade. Coragem. Clareza de pensamento. Perto de cartas muito difíceis pode sugerir a grandes perdas.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 53,
+      "valor": "Espadas",
+      "nome": "Pagem de Espadas",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/swpa.jpg",
+      "significado": "Análise fria e crítica. Comunicação oculta.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 54,
+      "valor": "Espadas",
+      "nome": "Dez de Espadas",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/swpa.jpg",
+      "significado": "Aflições, lágrimas. Pensamento muito negativo. Mentiras. Final de uma situação insurpotável.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 55,
+      "valor": "Espadas",
+      "nome": "Dez de Espadas",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/sw10.jpg",
+      "significado": "Aflições, lágrimas. Pensamento muito negativo. Mentiras. Final de uma situação insurpotável.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 56,
+      "valor": "Espadas",
+      "nome": "Nove de Espadas",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/sw09.jpg",
+      "significado": "Profunda tristeza. Desapontamento. Fracasso.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 57,
+      "valor": "Espadas",
+      "nome": "Oito de Espadas",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/sw08.jpg",
+      "significado": "Más notícias. Crise interna. Os problemas dessa carta são passageiros.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 58,
+      "valor": "Espadas",
+      "nome": "Sete de Espadas",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/sw07.jpg",
+      "significado": "Esperanças, autoconfiança. Tentativas. Planos Irreais. Fracasso dos planos.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 59,
+      "valor": "Espadas",
+      "nome": "Seis de Espadas",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/sw06.jpg",
+      "significado": "Viagem pela água. Separação ou afastamento temporário.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 60,
+      "valor": "Espadas",
+      "nome": "Cinco de Espadas",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/sw05.jpg",
+      "significado": "Desonra. Perdas. Derrota.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 61,
+      "valor": "Espadas",
+      "nome": "Quatro de Espadas",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/sw04.jpg",
+      "significado": "Solidão. Estar se recuperando de alguma doença. Estafa.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 62,
+      "valor": "Espadas",
+      "nome": "Três de Espadas",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/sw03.jpg",
+      "significado": "Mudanças difíceis. Ausência. Atraso.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 63,
+      "valor": "Espadas",
+      "nome": "Três de Espadas",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/sw02.jpg",
+      "significado": "Fazer as pazes. Aceitação de ideias diferentes das suas.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 64,
+      "valor": "Espadas",
+      "nome": "Ás de Espadas",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/swac.jpg",
+      "significado": "Triunfo, vitória, conquista. Grande força, tanto no amor como no ódio.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 65,
+      "valor": "Ouros",
+      "nome": "Rei de Ouros",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/peki.jpg",
+      "significado": "Valentia. Competência profissional. Bom negociante. Realizações materiais.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 66,
+      "valor": "Ouros",
+      "nome": "Rainha de Ouros",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/pequ.jpg",
+      "significado": "Segurança, liberdade, generosidade. Prosperidade. Fertilidade.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 67,
+      "valor": "Ouros",
+      "nome": "Cavaleiro de Ouros",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/pekn.jpg",
+      "significado": "Responsabilidade, confiabilidade, honestidade. Estabilidade. Sensualidade.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 68,
+      "valor": "Ouros",
+      "nome": "Pajem de Ouros",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/pepa.jpg",
+      "significado": "Grande concentração, estudos. Reflexão, meditação. Boa oportunidade.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 69,
+      "valor": "Ouros",
+      "nome": "Dez de Ouros",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/pe10.jpg",
+      "significado": "Riqueza. Estabilidade finaceira e familiar.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 70,
+      "valor": "Ouros",
+      "nome": "Nove de Ouros",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/pe09.jpg",
+      "significado": "Abundância, fartura. Segurança. Sucesso.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 71,
+      "valor": "Ouros",
+      "nome": "Oito de Ouros",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/pe08.jpg",
+      "significado": "O trabalho, o emprego. Cursos técnicos. Habilidade e sucesso em assuntos materiais.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 72,
+      "valor": "Ouros",
+      "nome": "Sete de Ouros",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/pe07.jpg",
+      "significado": "A colheita, término de um trabalho. Insatisfação com as conquistas realizadas, desvalorização do próprio trabalho.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 73,
+      "valor": "Ouros",
+      "nome": "Seis de Ouros",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/pe06.jpg",
+      "significado": "Sentimentos positivos. Gratificações. Ajuda financeira. Prosperidade.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 74,
+      "valor": "Ouros",
+      "nome": "Cinco de Ouros",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/pe05.jpg",
+      "significado": "Problemas e muitas dificuldades financeiras, devido ao esbanjamento. Descuido com a saúde.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 75,
+      "valor": "Ouros",
+      "nome": "Quatro de Ouros",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/pe04.jpg",
+      "significado": "Estabilidade material. Ótima saúde. Herança ou legado.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 76,
+      "valor": "Ouros",
+      "nome": "Três de Ouros",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/pe03.jpg",
+      "significado": "A profissão. Comércio. Habilidades profissionais. Obter reconhecimento público por seu trabalho.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 77,
+      "valor": "Ouros",
+      "nome": "Dois de Ouros",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/pe02.jpg",
+      "significado": "Alegria, brincadeiras, bons relacionamentos.",
+      "tipo": "Arcano menor"
+    },
+    {
+      "id": 78,
+      "valor": "Ouros",
+      "nome": "Ás de Ouros",
+      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/peac.jpg",
+      "significado": "Fertilidade, êxtase. Abundância. Boa saúde.",
+      "tipo": "Arcano menor"
+    }
+  ]
+}

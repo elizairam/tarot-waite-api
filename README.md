@@ -70,6 +70,30 @@
     "tipo": "Arcano menor"
 }
 ```
+##### Endpoint para sortear quantidade variada de cartas
+``` /cartas/jogo/sortear/{número de cartas}``` 
+##### Exemplo da resposta com 2 cartas para sortear:
+``` /cartas/jogo/sortear/2``` 
+```
+[
+    {
+        "id": 57,
+        "valor": "Espadas",
+        "nome": "Oito de Espadas",
+        "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/sw08.jpg",
+        "significado": "Más notícias. Crise interna. Os problemas dessa carta são passageiros.",
+        "tipo": "Arcano menor"
+    },
+    {
+        "id": 32,
+        "valor": "Paus",
+        "nome": "Quatro de Paus",
+        "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/wa04.jpg",
+        "significado": "Sucesso material. Estabilidade.",
+        "tipo": "Arcano menor"
+    }
+]
+```
 
 
 ## Referências 
@@ -81,3 +105,6 @@
 ##### Make your own mock API by Ania Kubow [Youtube](https://https://youtu.be/FLnxgSZ0DG4) 
 ##### Deploy NODEJS and Express API on Heroku by Arslan [Youtube](https://youtu.be/72DYDMP09MM)
 ##### How to create an API in Express and deploy it on Heroku by Ishraq Haider Chowdhury [Youtube](https://youtu.be/SWbUTOmT-gg)
+## 🐙:
+##### Tarot API by [@ekelen](https://rws-cards-api.herokuapp.com/)
+##### Deck of Cards API [Deck of Cards](https://github.com/crobertsbmw/deckofcards)

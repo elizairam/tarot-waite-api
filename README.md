@@ -116,6 +116,13 @@
 ##### Ouros
 ```/cartas/valor/ouros```
 
+
+#### 🧙‍♀️ Endpoints para tipos de arcano:
+##### Arcanos maiores
+```/cartas/tipo/arcano-maior```
+##### Arcanos menores
+```/cartas/tipo/arcano-menor```
+
 ## Referências 
 ## 📖:
 ##### The Pictorial Key to the Tarot by Arthur Edward Waite, Illustration by Pamela Colman Smith. 1911. [[ilustrações e deck]](https://www.sacred-texts.com/tarot/pkt/index.htm/)

@@ -86,5 +86,5 @@ app.get("/cartas/valor/ouros", (req, res) => {
 })
 
 app.listen(port, () => {
-   console.log(`Servidor aberto na porta http://localhost:${port} o/`)
+   console.log(`Servidor na porta http://localhost:${port} o/`)
 })

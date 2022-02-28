@@ -1,3 +1,4 @@
+const e = require("express")
 const express = require("express")
 const app = express()
 const importData = require("./data.json")
@@ -39,6 +40,7 @@ app.get("/cartas/jogo/sortear/10/cruz-celta", (req, res) => {
   const embaralhar = importData.cartas.sort(() => Math.random() - 0.5)
   const cartas_sorteadas = embaralhar.slice(0, 10)
   res.send(cartas_sorteadas)
+  console.log('AQUI' + embaralhar.map(el => el.id))
 })
 
 app.get("/cartas/jogo/sortear/7/ancora", (req, res) => {
@@ -55,32 +57,32 @@ app.get("/cartas/jogo/sortear/21/vida", (req, res) => {
 })
 
 app.get("/cartas/tipo/arcano-maior", (req, res) => {
-  const arcano_maior = importData.cartas.slice(0, 22)
+  const arcano_maior = importData.cartas.filter(el => el.tipo === 'Arcano maior').sort()
   res.send(arcano_maior)
 })
 
 app.get("/cartas/tipo/arcano-menor", (req, res) => {
-  const arcano_menor = importData.cartas.slice(22, 79)
+  const arcano_menor = importData.cartas.filter(el => el.tipo === 'Arcano menor').sort()
   res.send(arcano_menor)
 })
 
 app.get("/cartas/valor/paus", (req, res) => {
-  const pausData = importData.cartas.slice(22, 36)
+  const pausData = importData.cartas.filter(el => el.valor === 'Paus').sort()
   res.send(pausData)
 })
 
 app.get("/cartas/valor/copas", (req, res) => {
-  const copasData = importData.cartas.slice(36, 50)
+  const copasData = importData.cartas.filter(el => el.valor === 'Copas').sort()
   res.send(copasData)
 })
 
 app.get("/cartas/valor/espadas", (req, res) => {
-  const espadasData = importData.cartas.slice(50, 65)
+  const espadasData = importData.cartas.filter(el => el.valor === 'Espadas').sort()
   res.send(espadasData)
 })
 
 app.get("/cartas/valor/ouros", (req, res) => {
-  const ourosData = importData.cartas.slice(65, 79)
+  const ourosData = importData.cartas.filter(el => el.valor === 'Ouros').sort()
   res.send(ourosData)
 })
 

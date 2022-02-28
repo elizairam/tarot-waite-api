@@ -40,7 +40,6 @@ app.get("/cartas/jogo/sortear/10/cruz-celta", (req, res) => {
   const embaralhar = importData.cartas.sort(() => Math.random() - 0.5)
   const cartas_sorteadas = embaralhar.slice(0, 10)
   res.send(cartas_sorteadas)
-  console.log('AQUI' + embaralhar.map(el => el.id))
 })
 
 app.get("/cartas/jogo/sortear/7/ancora", (req, res) => {

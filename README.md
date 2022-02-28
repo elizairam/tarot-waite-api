@@ -125,7 +125,7 @@
 
 ## Referências 
 ## 📖:
-##### The Pictorial Key to the Tarot by Arthur Edward Waite, Illustration by Pamela Colman Smith. 1911. [[ilustrações e deck]](https://www.sacred-texts.com/tarot/pkt/index.htm/)
+##### The Pictorial Key to the Tarot by Arthur Edward Waite, Illustration by Pamela Colman Smith. 1911. [[ilustrações e deck]](https://www.sacred-texts.com/tarot/pkt/index.htm)
 ##### O TARÔ ILUSTRADO DE WAITE, Arthur E. Waite / Pamela Smith. Artha Editora / RS [significados das cartas]
 ##### TARÔ CLARO E SIMPLES, Josephine Ellershan. Editora Pensamento-Cultrix. São Paulo / SP - 2020 [métodos de embaralhamento]
 ## 💻:

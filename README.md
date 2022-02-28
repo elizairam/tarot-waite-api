@@ -127,7 +127,7 @@
 ## 📖:
 ##### The Pictorial Key to the Tarot by Arthur Edward Waite, Illustration by Pamela Colman Smith. 1911. [[ilustrações e deck]](https://www.sacred-texts.com/tarot/pkt/index.htm/)
 ##### O TARÔ ILUSTRADO DE WAITE, Arthur E. Waite / Pamela Smith. Artha Editora / RS [significados das cartas]
-##### TARÔ CLARO E SIMPLES. Josephine Ellershan. Editora Pensamento-Cultrix. São Paulo / SP - 2020 [métodos de tiragens]
+##### TARÔ CLARO E SIMPLES, Josephine Ellershan. Editora Pensamento-Cultrix. São Paulo / SP - 2020 [métodos de embaralhamento]
 ## 💻:
 ##### Make your own mock API by Ania Kubow [Youtube](https://https://youtu.be/FLnxgSZ0DG4) 
 ##### Deploy NODEJS and Express API on Heroku by Arslan [Youtube](https://youtu.be/72DYDMP09MM)

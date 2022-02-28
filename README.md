@@ -3,7 +3,7 @@
 
 ## Descrição
 #### Essa API foi construída com dados de 78 cartas do tarô Rider-Waite Smith.
-#### O objetivo era criar uma API que sintetizasse os significados das cartas e alguns métodos de tiragens mais comuns:
+#### O objetivo era criar uma API que sintetizasse os significados das cartas e alguns métodos de embaralhamento mais comuns:
 #### 🔮 aleatória >  a quantidade de cartas respondidas varia conforme o parâmetro inserido na requisição
 #### 🔮 cruz celta > são respondidas 10 cartas pela requisição
 #### 🔮 da vida > são respondidas 21 cartas pela requisição
@@ -11,8 +11,7 @@
 #### 🔮 nove cartas > são respondidas 9 cartas pela requisição
 
 ## Requisições
-#### [edit]
-#### Método GET:
+### Método GET:
 ##### Endpoint para retornar todas as 78 cartas:
 ``` /cartas ``` 
 
@@ -70,9 +69,11 @@
     "tipo": "Arcano menor"
 }
 ```
-##### Endpoint para sortear quantidade variada de cartas
+
+#### 🎲 Endpoints para modos de embaralhamento:
+##### Aleatório 
 ``` /cartas/jogo/sortear/{número de cartas}``` 
-##### Exemplo da resposta com 2 cartas para sortear:
+##### Exemplo da resposta com 2 cartas para sortear aleatoriamente:
 ``` /cartas/jogo/sortear/2``` 
 ```
 [
@@ -94,7 +95,26 @@
     }
 ]
 ```
+##### Cruz da verdade
+```/cartas/jogo/sortear/5/cruz-verdade```
+##### Nove cartas
+```/cartas/jogo/sortear/9/nove-cartas```
+##### Cruz celta
+```/cartas/jogo/sortear/10/cruz-celta```
+##### Âncora
+```/cartas/jogo/sortear/7/ancora```
+##### Vida
+```/cartas/jogo/sortear/21/vida```
 
+#### ☘ Endpoints para cada naipe:
+##### Paus
+```/cartas/valor/paus```
+##### Copas
+```/cartas/valor/copas```
+##### Espadas
+```/cartas/valor/espadas```
+##### Ouros
+```/cartas/valor/ouros```
 
 ## Referências 
 ## 📖:

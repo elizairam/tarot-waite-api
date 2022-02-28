@@ -42,7 +42,7 @@ app.get("/cartas/jogo/sortear/10/cruz-celta", (req, res) => {
 })
 
 app.get("/cartas/jogo/sortear/7/ancora", (req, res) => {
-  const arcano_maior = importData.cartas.slice(0, 22)
+  const arcano_maior = importData.cartas.filter(el => el.tipo === 'Arcano maior').sort()
   const embaralhar = arcano_maior.sort(() => Math.random() - 0.5)
   const cartas_sorteadas = embaralhar.slice(0, 7)
   res.send(cartas_sorteadas)

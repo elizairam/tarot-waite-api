@@ -3,7 +3,7 @@
 
 ## Descrição
 #### Essa API foi construída com dados de 78 cartas do tarô Rider-Waite Smith.
-#### O objetivo era criar uma API que sintetizasse os significados das cartas e alguns métodos de embaralhamento mais comuns:
+#### O objetivo era criar uma API que sintetizasse os significados das cartas de tarô e alguns métodos de embaralhamento mais comuns:
 #### 🔮 aleatória >  a quantidade de cartas respondidas varia conforme o parâmetro inserido na requisição
 #### 🔮 cruz celta > são respondidas 10 cartas pela requisição
 #### 🔮 da vida > são respondidas 21 cartas pela requisição

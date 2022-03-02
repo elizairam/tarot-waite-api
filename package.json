@@ -18,9 +18,10 @@
   },
   "homepage": "https://github.com/elizairam/tarot-waite-api#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.3"
   },
-  "engines" : {
+  "engines": {
     "node": "16.13.1"
   }
 }

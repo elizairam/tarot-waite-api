@@ -75,7 +75,7 @@
     {
       "id": 9,
       "valor": "9",
-      "nome": "O eremita",
+      "nome": "O Eremita",
       "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/ar09.jpg",
       "significado": "Prudência, circunspecção, estar sozinho, introvertido, silêncio, seriedade, mas também dissimulação, trapaça, corrupção, traição. Efeitos lentos, a longo prazo.",
       "tipo": "Arcano maior"
@@ -99,9 +99,9 @@
     {
       "id": 12,
       "valor": "12",
-      "nome": "A Justiça",
+      "nome": "O Enforcado",
       "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/ar12.jpg",
-      "significado": "Equilíbrio, honestidade, triunfo merecido da lei, objetividade, moralidade, execução das ações. Resultado de suas ações, colhendo o que plantou.",
+      "significado": "Sabedoria, circunspecção, discernimento, intuição, adivinhação, profecias, mas também provações e sacrifícios. Momento parado.",
       "tipo": "Arcano maior"
     },
     {

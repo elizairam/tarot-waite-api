@@ -436,20 +436,12 @@
       "id": 54,
       "valor": "Espadas",
       "nome": "Dez de Espadas",
-      "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/swpa.jpg",
-      "significado": "Aflições, lágrimas. Pensamento muito negativo. Mentiras. Final de uma situação insurpotável.",
-      "tipo": "Arcano menor"
-    },
-    {
-      "id": 55,
-      "valor": "Espadas",
-      "nome": "Dez de Espadas",
       "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/sw10.jpg",
       "significado": "Aflições, lágrimas. Pensamento muito negativo. Mentiras. Final de uma situação insuportável.",
       "tipo": "Arcano menor"
     },
     {
-      "id": 56,
+      "id": 55,
       "valor": "Espadas",
       "nome": "Nove de Espadas",
       "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/sw09.jpg",
@@ -457,7 +449,7 @@
       "tipo": "Arcano menor"
     },
     {
-      "id": 57,
+      "id": 56,
       "valor": "Espadas",
       "nome": "Oito de Espadas",
       "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/sw08.jpg",
@@ -465,7 +457,7 @@
       "tipo": "Arcano menor"
     },
     {
-      "id": 58,
+      "id": 57,
       "valor": "Espadas",
       "nome": "Sete de Espadas",
       "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/sw07.jpg",
@@ -473,7 +465,7 @@
       "tipo": "Arcano menor"
     },
     {
-      "id": 59,
+      "id": 58,
       "valor": "Espadas",
       "nome": "Seis de Espadas",
       "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/sw06.jpg",
@@ -481,7 +473,7 @@
       "tipo": "Arcano menor"
     },
     {
-      "id": 60,
+      "id": 59,
       "valor": "Espadas",
       "nome": "Cinco de Espadas",
       "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/sw05.jpg",
@@ -489,7 +481,7 @@
       "tipo": "Arcano menor"
     },
     {
-      "id": 61,
+      "id": 60,
       "valor": "Espadas",
       "nome": "Quatro de Espadas",
       "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/sw04.jpg",
@@ -497,7 +489,7 @@
       "tipo": "Arcano menor"
     },
     {
-      "id": 62,
+      "id": 61,
       "valor": "Espadas",
       "nome": "Três de Espadas",
       "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/sw03.jpg",
@@ -505,7 +497,7 @@
       "tipo": "Arcano menor"
     },
     {
-      "id": 63,
+      "id": 62,
       "valor": "Espadas",
       "nome": "Três de Espadas",
       "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/sw02.jpg",
@@ -513,7 +505,7 @@
       "tipo": "Arcano menor"
     },
     {
-      "id": 64,
+      "id": 63,
       "valor": "Espadas",
       "nome": "Ás de Espadas",
       "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/swac.jpg",
@@ -521,7 +513,7 @@
       "tipo": "Arcano menor"
     },
     {
-      "id": 65,
+      "id": 64,
       "valor": "Ouros",
       "nome": "Rei de Ouros",
       "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/peki.jpg",
@@ -529,7 +521,7 @@
       "tipo": "Arcano menor"
     },
     {
-      "id": 66,
+      "id": 65,
       "valor": "Ouros",
       "nome": "Rainha de Ouros",
       "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/pequ.jpg",
@@ -537,7 +529,7 @@
       "tipo": "Arcano menor"
     },
     {
-      "id": 67,
+      "id": 66,
       "valor": "Ouros",
       "nome": "Cavaleiro de Ouros",
       "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/pekn.jpg",
@@ -545,7 +537,7 @@
       "tipo": "Arcano menor"
     },
     {
-      "id": 68,
+      "id": 67,
       "valor": "Ouros",
       "nome": "Pajem de Ouros",
       "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/pepa.jpg",
@@ -553,7 +545,7 @@
       "tipo": "Arcano menor"
     },
     {
-      "id": 69,
+      "id": 68,
       "valor": "Ouros",
       "nome": "Dez de Ouros",
       "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/pe10.jpg",
@@ -561,7 +553,7 @@
       "tipo": "Arcano menor"
     },
     {
-      "id": 70,
+      "id": 69,
       "valor": "Ouros",
       "nome": "Nove de Ouros",
       "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/pe09.jpg",
@@ -569,7 +561,7 @@
       "tipo": "Arcano menor"
     },
     {
-      "id": 71,
+      "id": 70,
       "valor": "Ouros",
       "nome": "Oito de Ouros",
       "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/pe08.jpg",
@@ -577,7 +569,7 @@
       "tipo": "Arcano menor"
     },
     {
-      "id": 72,
+      "id": 71,
       "valor": "Ouros",
       "nome": "Sete de Ouros",
       "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/pe07.jpg",
@@ -585,7 +577,7 @@
       "tipo": "Arcano menor"
     },
     {
-      "id": 73,
+      "id": 72,
       "valor": "Ouros",
       "nome": "Seis de Ouros",
       "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/pe06.jpg",
@@ -593,7 +585,7 @@
       "tipo": "Arcano menor"
     },
     {
-      "id": 74,
+      "id": 73,
       "valor": "Ouros",
       "nome": "Cinco de Ouros",
       "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/pe05.jpg",
@@ -601,7 +593,7 @@
       "tipo": "Arcano menor"
     },
     {
-      "id": 75,
+      "id": 74,
       "valor": "Ouros",
       "nome": "Quatro de Ouros",
       "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/pe04.jpg",
@@ -609,7 +601,7 @@
       "tipo": "Arcano menor"
     },
     {
-      "id": 76,
+      "id": 75,
       "valor": "Ouros",
       "nome": "Três de Ouros",
       "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/pe03.jpg",
@@ -617,7 +609,7 @@
       "tipo": "Arcano menor"
     },
     {
-      "id": 77,
+      "id": 76,
       "valor": "Ouros",
       "nome": "Dois de Ouros",
       "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/pe02.jpg",
@@ -625,7 +617,7 @@
       "tipo": "Arcano menor"
     },
     {
-      "id": 78,
+      "id": 77,
       "valor": "Ouros",
       "nome": "Ás de Ouros",
       "imgUrl": "https://www.sacred-texts.com/tarot/pkt/img/peac.jpg",

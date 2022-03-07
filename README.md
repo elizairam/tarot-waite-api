@@ -6,6 +6,7 @@
 #### O objetivo era criar uma API que sintetizasse os significados das cartas de tarô e alguns métodos de embaralhamento mais comuns:
 #### 🔮 aleatória >  a quantidade de cartas respondidas varia conforme o parâmetro inserido na requisição
 #### 🔮 cruz celta > são respondidas 10 cartas pela requisição
+#### 🔮 cruz da verdade > são respondidas 5 cartas pela requisição
 #### 🔮 da vida > são respondidas 21 cartas pela requisição
 #### 🔮 da âncora > são respondidas 7 cartas pela requisição
 #### 🔮 nove cartas > são respondidas 9 cartas pela requisição
